@@ -14,8 +14,8 @@ public class testSelectionSort
 	{
 		testPositive();
 		testNegative();
-		//testMixed();
-		//testDuplicates();
+		testMixed();
+		testDuplicates();
 	}
 
 	  public testSelectionSort()
